@@ -1,0 +1,1 @@
+# Es6-Class-Inheritance
